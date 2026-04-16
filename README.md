@@ -16,7 +16,7 @@
 
 <!-- REDES -->
 <p align="center">
-  <a href="https://github.com/Vitorcalas">
+  <a href="https://github.com/calinhas">
     <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/vitorcalas">
@@ -67,7 +67,7 @@
 ## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seuusuario/seuusuario/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/calinhas/calinhas/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
